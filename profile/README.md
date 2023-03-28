@@ -1,7 +1,8 @@
 # Oops! You've come to the wrong Squid github profile 
-This repo is owned by Squid, the cross-chain swap and payments layer on Axelar.
 
 🔒 The official github of Squid is currently [https://github.com/0xsquid](https://github.com/0xsquid)
+
+This organisation is owned by Squid, the cross-chain swap and payments layer on Axelar.
 
 ✨ Our website [https://squidrouter.com](https://squidrouter.com)
 
