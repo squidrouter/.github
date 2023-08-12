@@ -1,4 +1,4 @@
-# Oops! You've come to the wrong Squid github profile 
+# Oops! You've come to the wrong Squid github org 
 
 🔒 The official github of Squid is currently [https://github.com/0xsquid](https://github.com/0xsquid)
 
